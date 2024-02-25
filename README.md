@@ -1,4 +1,4 @@
-            MedDevs
+                                                MedDevs
 
 Welcome to MedDevs! Our project is dedicated to revolutionizing healthcare accessibility and convenience through innovative technology.
 Whether you're a patient seeking remote healthcare services or a healthcare provider looking to streamline your practice, our platform offers a comprehensive solution tailored to your needs.
@@ -31,3 +31,26 @@ healthcare causes and initiatives.
 
 Get Started
 Ready to experience the future of healthcare? Visit MedDevs and start your journey towards better health and well-being today!
+
+
+
+
+
+
+
+
+https://github.com/vighnesh-7/MedDevs/assets/156537424/878c13e6-0e34-4f14-a854-6877bfd52c7b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
